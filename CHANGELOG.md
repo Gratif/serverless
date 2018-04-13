@@ -1,7 +1,7 @@
 # 1.26.1 (27.02.2018)
 - [Fix lambda integration regression](https://github.com/serverless/serverless/pull/4775)
 
-## Meta
+# Meta
 - [Comparison since last release](https://github.com/serverless/serverless/compare/v1.26.0...v1.26.1)
 
 # 1.26.0 (29.01.2018)
